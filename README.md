@@ -30,16 +30,18 @@ Join us as we uncover how Azure Durable Functions empower developers to build re
 
 ## Learning Objectives
 - Understand Azure Durable Functions' core concepts and capabilities for orchestrating serverless workflows in .NET environments.
-- Learn how to implement common application patterns such as function chaining, fan-out/fan-in, and async HTTP APIs using Azure Durable Functions.
+- Learn how to use Azure Durable Functions to implement common application patterns such as function chaining, fan-out/fan-in, and async HTTP APIs.
 - Gain insights into best practices and real-world use cases for leveraging Azure Durable Functions to streamline workflow orchestration and improve application scalability and resilience.
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Update Conference Prague 2024](https://www.updateconference.net/) | Prague, Czech Republic | November 14-15, 2024 | TBA | TBA | Available Afterwards |
 | Stir Trek | Columbus, OH | May 26, 2019 | 8:30 AM EDT | TBA | Unavailable |
 
-## Resources
-There are no additional resources for this presentation.
-
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Serverless%20Orchestration) to have Chad present this session at your event.
+
+## Resources
+
+There are no additional resources for this presentation.

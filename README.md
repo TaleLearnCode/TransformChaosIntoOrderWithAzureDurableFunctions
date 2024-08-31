@@ -33,6 +33,11 @@ Attendees will learn best practices for implementing Durable Functions, gain ins
 - Learn how to implement common application patterns such as function chaining, fan-out/fan-in, and async HTTP APIs using Azure Durable Functions.
 - Gain insights into best practices and real-world use cases for leveraging Azure Durable Functions to streamline workflow orchestration and improve application scalability and resilience.
 
+## Prerequisites
+- **Basic Understanding of Cloud Computing**: Familiarity with cloud computing concepts and services and understanding of serverless architecture and its benefits.
+- **Knowledge of Azure Platform**: Basic knowledge of Microsoft Azure services and experience with Azure Functions and the Azure portal.
+- **Proficiency in .NET Development**: Experience with C# and .NET development.
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |

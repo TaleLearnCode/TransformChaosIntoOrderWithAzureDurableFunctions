@@ -42,8 +42,8 @@ Attendees will learn best practices for implementing Durable Functions, gain ins
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Update Conference](https://www.updateconference.net/en) | Prague, Czech Republic | November 15, 2024 | 12:30 CEST | Hall D | Available Afterwards |
-| Stir Trek | Columbus, OH | May 26, 2019 | 8:30 AM EDT | TBA | Unavailable |
+| [Update Conference](https://www.updateconference.net/en) | Prague, Czech Republic | November 15, 2024 | 12:30 CEST | Hall D | [Slides](./EventMaterials/ServerlessOrchestration-UpdateConf.pdf) |
+| Stir Trek | Columbus, OH | May 26, 2019 | 8:30 AM EDT | N/A | Unavailable |
 
 ## Resources
 There are no additional resources for this presentation.

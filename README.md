@@ -11,11 +11,7 @@ Unlock the power of Azure Durable Functions for .NET! Learn to orchestrate scala
 In cloud computing, serverless architecture is celebrated for its scalability and cost-efficiency. Yet, orchestrating complex workflows can be challenging. Azure Durable Functions simplify workflow orchestration in .NET environments. This session explores function chaining, fan-out/fan-in, async HTTP APIs, and more. Learn best practices, optimize serverless apps, and build efficient workflows without managing infrastructure. It is ideal for both seasoned and new developers.
 
 ## Abstract
-In the dynamic world of cloud computing, serverless architecture is celebrated for its scalability, cost-efficiency, and ease of management. Yet, orchestrating complex workflows in a serverless environment presents unique challenges. Enter Azure Durable Functions, a robust toolset that simplifies workflow orchestration within the Azure ecosystem.
-
-This session focuses on the intricacies of Azure Durable Functions and their application in .NET environments. We will explore function chaining, fan-out/fan-in scenarios, async HTTP APIs, human interaction patterns, and more. We will demonstrate how Durable Functions can streamline the development of resilient, scalable, and event-driven workflows through practical examples and real-world use cases.
-
-Attendees will learn best practices for implementing Durable Functions, gain insights into optimizing serverless applications, and discover how to leverage these tools to build efficient workflows without the overhead of managing infrastructure. Whether you’re an experienced developer or new to serverless architecture, this session will equip you with the knowledge and skills to fully harness the power of Azure Durable Functions in your .NET projects.
+Durable Functions is an open-source extension to Azure Functions designed to enable long-running orchestrations and stateful processes as serverless functions. In this session, learn about the common use patterns for Durable Functions, discover how to implement them step-by-step, and explore best practices for writing both simple and complex stateful orchestrations. Gain practical insights into enhancing your cloud solutions, ensuring efficiency, scalability, and reliability in your applications. Perfect for developers and IT professionals seeking to leverage Azure's powerful capabilities for stateful serverless architectures.
 
 # Type
 - 45/60/75-minute session

@@ -1,28 +1,21 @@
-# Azure Durable Functions for Serverless .NET Orchestration
+# Transform Chaos into Order with Azure Durable Functions
 
-![Azure Durable Functions for Serverless .NET Orchestration](thumbnail.jpg)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen) 🗣️Talk 🔵 Intermediate
+
+![Transform Chaos into Order with Azure Durable Functions](thumbnail.jpg)
 
 ## Elevator Pitch
 
-Unlock the power of Azure Durable Functions for .NET! Learn to orchestrate scalable, resilient serverless workflows with ease.
-
-## Short Abstract
-
-In cloud computing, serverless architecture is celebrated for its scalability and cost-efficiency. Yet, orchestrating complex workflows can be challenging. Azure Durable Functions simplify workflow orchestration in .NET environments. This session explores function chaining, fan-out/fan-in, async HTTP APIs, and more. Learn best practices, optimize serverless apps, and build efficient workflows without managing infrastructure. It is ideal for both seasoned and new developers.
+Durable Functions turns complicated, multi-step business logic into seamless workflows that scale effortlessly. Learn best practices, avoid common pitfalls, and architect robust cloud solutions that keep your operations smooth and reliable.
 
 ## Abstract
-Durable Functions is an open-source extension to Azure Functions designed to enable long-running orchestrations and stateful processes as serverless functions. In this session, learn about the common use patterns for Durable Functions, discover how to implement them step-by-step, and explore best practices for writing both simple and complex stateful orchestrations. Gain practical insights into enhancing your cloud solutions, ensuring efficiency, scalability, and reliability in your applications. Perfect for developers and IT professionals seeking to leverage Azure's powerful capabilities for stateful serverless architectures.
+Azure Durable Functions empowers enterprise developers to manage **stateful, long-running workflows** in serverless .NET applications. This session will guide you through **step-by-step demos** and best practices to streamline intricate business processes, whether tackling **complex order processing** or ensuring **regulatory compliance**. Learn how to build **resilient orchestrations** that simplify state management, scale effortlessly, and boost operational efficiency. Whether modernizing legacy systems or architecting agile cloud solutions, gain actionable insights to transform complicated workflows into robust, high-performing applications.
 
 # Type
 - 45/60/75-minute session
 
 ## Tags
-- .NET
-- Azure
-- Cloud Computing
-- Durable Functions
-- Serverless
-- Workflow Orchestration
+![.NET](https://img.shields.io/badge/Tag-.NET-blue) ![Azure](https://img.shields.io/badge/Tag-Azure-blue) ![Cloud Computing](https://img.shields.io/badge/Tag-Cloud%20Computing-blue) ![Durable Functions](https://img.shields.io/badge/Tag-Durable%20Functions-blue) ![Serverless](https://img.shields.io/badge/Tag-Serverless-blue) ![Workflow Orchestration](https://img.shields.io/badge/Tag-Workflow%20Orchestration-blue) 
 
 ## Learning Objectives
 - Understand Azure Durable Functions' core concepts and capabilities for orchestrating serverless workflows in .NET environments.
@@ -30,20 +23,21 @@ Durable Functions is an open-source extension to Azure Functions designed to ena
 - Gain insights into best practices and real-world use cases for leveraging Azure Durable Functions to streamline workflow orchestration and improve application scalability and resilience.
 
 ## Prerequisites
-- **Basic Understanding of Cloud Computing**: Familiarity with cloud computing concepts and services and understanding of serverless architecture and its benefits.
-- **Knowledge of Azure Platform**: Basic knowledge of Microsoft Azure services and experience with Azure Functions and the Azure portal.
-- **Proficiency in .NET Development**: Experience with C# and .NET development.
+- **Master Enterprise Workflow Orchestration:** Implement long-running, stateful processes with confidence
+- **Turn Complexity into Streamlined Action:** Learn through real-world demos and best practices.
+- **Build Resilient, Future-Proof Cloud Solutions:** Architect scalable, fault-tolerant serverless applications
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Øredev 2025](https://oredev.org/) | Malmö, Sweden | November 5, 2025 | 15:50 CET | Orbit | Available Afterwards |
-| [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 9, 2025 | 09:00 EDT | 222 | Available Afterwards |
+| [Øredev 2025](https://oredev.org/) | Malmö, Sweden | November 5, 2025 | 15:50 CET | Orbit | [Slides](EventMaterials\TransformChaosIntoOrderWithAzureDurableFunctions-Øredev2025.pdf) \| [Demos](Demos\readme.md) |
+| [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 9, 2025 | 09:00 EDT | 222 | [Slides](EventMaterials\TransformChaosIntoOrderWithAzureDurableFunctions-BeerCityCode2025.pdf) \| [Demos](Demos\readme.md) |
 | [Update Conference](https://www.updateconference.net/en) | Prague, Czech Republic | November 15, 2024 | 12:30 CEST | Hall D | [Slides](./EventMaterials/ServerlessOrchestration-UpdateConf.pdf) |
 | Stir Trek | Columbus, OH | May 26, 2019 | 08:30 EDT | N/A | Unavailable |
 
 ## Resources
+
 There are no additional resources for this presentation.
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Serverless%20Orchestration) to have Chad present this session at your event.
